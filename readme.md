@@ -1,3 +1,0 @@
-## Tutorial for django
-
-### sdfsdf`
